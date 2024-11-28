@@ -1,5 +1,5 @@
 # Retail Sales Analysis SQL Project
-Using Microsoft SQL Server
+Using SQL Server Management Studio
 
 ## Project Overview
 
